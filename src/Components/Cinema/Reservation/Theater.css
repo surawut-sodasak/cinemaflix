@@ -1,0 +1,127 @@
+.walk{
+    clear: both;
+    height: 30px;
+}
+
+.theater-info-container{
+    min-height: 30vh;
+    padding: 25px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;  
+}
+
+.theater-info-container h1{
+    color: #FEFEFE;
+    font-family: Roboto;
+}
+
+.theater-info-row{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.genre-list{
+    display: flex; 
+    justify-content: space-around; 
+    align-items: flex-start; 
+    color: #FEFEFE;
+    font-family: Montserrat;
+}
+
+.description-container{
+    width: 100%;
+}
+
+.back-btn{
+    margin: 15px;
+}
+
+.green{
+    background-color:#4EBD74;
+}
+
+.txt-screen{
+    float: left;
+    margin-left:50%;
+}
+
+.float-left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.card-holder {
+    margin: 2em 0;
+  }
+
+.screen{
+    margin: 0 auto;
+    color: #fff;
+    font-size: 15px;
+    background: -webkit-linear-gradient(-70deg, #fa7c30 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
+    background: -o-linear-gradient(-70deg, #fa7c30 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
+    background: -moz-linear-gradient(-70deg, #fa7c30 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
+    background: linear-gradient(-70deg, #fa7c30 30%, rgba(0, 0, 0, 0) 30%), url('https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg');
+    background-size: cover;
+    background-position: 50% 21%;
+    text-align: right;
+}
+
+.card {
+    font-family: -apple-system, BlinkMacSystemFont, 'Open Sans', sans-serif;
+    font-size: 3em;
+    font-weight: 800;
+    height: 5em;
+    width: 64em;
+    padding: 0.5em 1em;
+    border-radius: 0.25em;
+    display: table-cell;
+    vertical-align: middle;
+    letter-spacing: -2px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)
+  }
+
+.seat-rows{
+    width: 100%;
+    clear: both;
+    margin-bottom: 100px;
+}
+
+.padding-right{
+    border:1px blue solid;
+}
+
+.info-msg,
+.success-msg,
+.warning-msg,
+.error-msg {
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 3px 3px 3px 3px;
+  width: 300px;
+  text-align: center;
+}
+
+.info-msg {
+    color: #059;
+    background-color: #BEF;
+  }
+  .success-msg {
+    color: #270;
+    background-color: #DFF2BF;
+  }
+  .warning-msg {
+    color: #9F6000;
+    background-color: #FEEFB3;
+  }
+  .error-msg {
+    color: #D8000C;
+    background-color: #FFBABA;
+  }

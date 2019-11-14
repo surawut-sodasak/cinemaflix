@@ -1,0 +1,53 @@
+.summary{
+    float: right;
+    margin: -50px 0 0 0;
+    width: 400px;
+    height: 200px;
+}
+.up-button{
+    padding:0;
+    margin: 0;
+    border:1px green solid;
+}
+
+.summary h5{
+    margin: 0;
+    padding: 0;
+    font-size: 32px;
+    float: left;
+    width: 100%;
+    color: black;
+}
+
+.summary p{
+    margin: 5px 0 5px 0;
+    padding: 0;
+    font-size: 20px;
+    float: left;
+    width: 100%;
+}
+
+.total{
+    margin: 10px 0 0 0;
+    padding: 0;
+    font-size: 20px;
+    float: left;
+    width: 100%;
+    color: black;
+}
+
+.order{
+    margin: 10px 0 5px 0;
+    padding: 0;
+    font-size: 20px;
+    float: left;
+    width: 100%;
+    color: lime;
+}
+
+.hr-summary{
+    margin:5px 0;
+    padding: 0px;
+    float: right;
+    width: 70%;
+}

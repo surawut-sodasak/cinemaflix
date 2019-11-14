@@ -1,0 +1,56 @@
+.seat {
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+}
+.seat-available{
+    background-image: url("../../../assets/seats/seat.png");
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    width: 100px;
+    height: 100px;
+}
+
+.seat-order{
+    background-image: url("../../../assets/seats/seat-order.png");
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    width: 100px;
+    height: 100px;
+}
+
+.seat-busy{
+    background-image: url("../../../assets/seats/seat-busy.png");
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    width: 100px;
+    height: 100px;
+}
+
+.seat-platinium-available{
+    background-image: url("../../../assets/seats/seat-platinium.png");
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    width: 100px;
+    height: 100px;
+}
+
+.seat-platinium-order{
+    background-image: url("../../../assets/seats/seat-platinium-order.png");
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    width: 100px;
+    height: 100px;
+}
+
+.seat-platinium-busy{
+    background-image: url("../../../assets/seats/seat-platinium-busy.png");
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    width: 100px;
+    height: 100px;
+}

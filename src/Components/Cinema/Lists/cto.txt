@@ -1,0 +1,14 @@
+App Management Project
+  - APIm , New
+  
+Project Infra ถือ VPC
+
+
+Single Profile Project
+
+
+คนละ subnet 
+
+VPC 
+
+CPU Rate , New Public เป็น Mode Rate  4 เครื่อง 
